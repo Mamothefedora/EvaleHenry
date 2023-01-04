@@ -3,3 +3,5 @@ CORRER
 CAMINAR
 Saltar 
 Nadar
+trotar 
+gritar
